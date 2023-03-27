@@ -1,0 +1,60 @@
+https://github.com/davisnog/password-validator
+https://github.com/fromlabs/order-management
+https://github.com/edeesis/flow-example
+grpc - https://github.com/debuglevel/greeting-microservice
+https://github.com/albertattard/kotlin-micronaut-reload-service-example
+https://github.com/pb-coding/ems-be
+
+
+https://github.com/joshchoo/micronaut-coroutines-transactional-issue
+Learning functional - https://github.com/Hc747/costly (caching/rxclient suspend)
+
+Outbox pattern -  https://github.com/navikt/pam-puls. (Fetch events from amplitude and provide an api for the data)
+
+https://github.com/lotogus/party-participant-presence - (grpc)
+
+https://github.com/LuLiveira/grpc-client-server (grpc)
+
+https://github.com/Krystian-Kryszczak/media-service/tree/master - tests learn micronaut
+
+https://github.com/Krystian-Kryszczak
+
+
+Client learn 
+https://github.com/janosdobi/api-aggregator
+
+https://github.com/i-chi-li/micronaut-kotlin-coroutine-sample
+
+https://kotlinlang.org/docs/multiplatform-mobile-concurrency-and-coroutines.html#frozen-captured-data
+
+https://github.com/gotenks82/SimpleRestaurantApi
+
+https://github.com/FelipeLopes/pokemonolith
+https://github.com/yazidIT/earthquake-micronaut
+https://github.com/bjor-joh/micronaut-distributed-tracing/blob/master/src/main/kotlin/com/example/SomeService.kt
+
+https://github.com/filipenfst/micronault-hotel-booking
+https://github.com/Krystian-Kryszczak/watch-service/blob/6185ce58cc249daa0d25d2ac02bed53b924e0f9d/src/test/kotlin/testing/HttpRxClientTestUtils.kt
+https://github.com/rawilder/r2dbc-dto-projections/blob/ee54d915ff928bd740c62875f5c077908deceabd/application/src/test/kotlin/dev/awilder/r2dbcDtoProjections/util/TestUtil.kt
+https://github.com/filipenfst/ces-example
+https://github.com/rawilder/mn-3-8-0-client-suspend/blob/main/src/main/kotlin/dev/awilder/CatFactsClient.kt
+https://github.com/22dasi1bwi/micronaut-coroutines-context-loss-on-thread-switch
+
+
+
+Pulsar
+
+https://github.com/micronaut-projects/micronaut-pulsar
+
+https://github.com/hantsy/micronaut-sandbox
+https://github.com/singh05/mn-kotlin-service-template/tree/master
+
+Important 
+
+https://github.com/davidmerrick/dayify
+https://github.com/Hc747/costly/blob/7af098bde1b77ee6fd0d2cea29ffc00815349b3d/app/src/main/kotlin/com/costly/client/SuspendableHttpClient.kt
+https://github.com/rawilder/r2dbc-dto-projections/blob/ee54d915ff928bd740c62875f5c077908deceabd/application/src/test/kotlin/dev/awilder/r2dbcDtoProjections/util/TestUtil.kt
+
+Learn more
+https://github.com/navikt/hm-grunndata-db
+https://github.com/HennanGadelha/datapublisher/blob/a75f60ce92780bcf0f5a4fb1c90823178775b0f3/src/main/kotlin/com/datapublisher/integration/PlataformFlaskApi.kt
